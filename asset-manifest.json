@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/misterio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/misterio/static/js/main.c64ecb51.chunk.js",
+    "main.js.map": "/misterio/static/js/main.c64ecb51.chunk.js.map",
+    "runtime-main.js": "/misterio/static/js/runtime-main.d3810397.js",
+    "runtime-main.js.map": "/misterio/static/js/runtime-main.d3810397.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/misterio/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.e8c6def2.chunk.js": "/misterio/static/js/2.e8c6def2.chunk.js",
+    "static/js/2.e8c6def2.chunk.js.map": "/misterio/static/js/2.e8c6def2.chunk.js.map",
+    "static/js/3.e1b8821f.chunk.js": "/misterio/static/js/3.e1b8821f.chunk.js",
+    "static/js/3.e1b8821f.chunk.js.map": "/misterio/static/js/3.e1b8821f.chunk.js.map",
+    "index.html": "/misterio/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/misterio/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/misterio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e8c6def2.chunk.js.LICENSE.txt": "/misterio/static/js/2.e8c6def2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3810397.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.e8c6def2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c64ecb51.chunk.js"
+  ]
+}
